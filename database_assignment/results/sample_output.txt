@@ -1,0 +1,21 @@
+a) Distinct Acacia species: 326
+
+b) Longest Triticum sequence:
+   species=Triticum durum (durum wheat), accession=LT934116.1, length=836514780
+
+c) Page 9 (15/page, length > 1,000,000):
+   rfam_acc=RF01284, rfam_id=snoR8a, max_length=836514780
+   rfam_acc=RF01286, rfam_id=snoR26, max_length=836514780
+   rfam_acc=RF01292, rfam_id=snoR2, max_length=836514780
+   rfam_acc=RF01847, rfam_id=Plant_U3, max_length=836514780
+   rfam_acc=RF01911, rfam_id=MIR2118, max_length=836514780
+   rfam_acc=RF03160, rfam_id=twister-P1, max_length=836514780
+   rfam_acc=RF03209, rfam_id=MIR9657, max_length=836514780
+   rfam_acc=RF03674, rfam_id=MIR5387, max_length=836514780
+   rfam_acc=RF03685, rfam_id=MIR9677, max_length=836514780
+   rfam_acc=RF03896, rfam_id=MIR2275, max_length=836514780
+   rfam_acc=RF03926, rfam_id=MIR1435, max_length=836514780
+   rfam_acc=RF04110, rfam_id=MIR5084, max_length=836514780
+   rfam_acc=RF04251, rfam_id=MIR5070, max_length=836514780
+   rfam_acc=RF04331, rfam_id=Plastid-clpP, max_length=836514780
+   rfam_acc=RF04335, rfam_id=Plastid-rpl20, max_length=836514780
